@@ -22,9 +22,11 @@ Perfect for backgrounds, hero sections, and fun UI effects!
 
 -Randomized bubble movement
 
-**Fully responsive**
+Fully responsive
 
-🛠️ Tech Stack
+---
+
+**🛠️ Tech Stack**
 
 -HTML5
 
