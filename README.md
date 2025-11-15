@@ -1,4 +1,4 @@
-##🌊 Floating Water Bubble Animation##
+## 🌊 Floating Water Bubble Animation ##
 
 ---
 
