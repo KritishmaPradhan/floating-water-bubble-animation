@@ -1,27 +1,33 @@
-🌊 Floating Water Bubble Animation
+##🌊 Floating Water Bubble Animation##
+
+---
 
 A smooth and satisfying floating water bubble animation created using HTML, CSS, and JavaScript.
 Perfect for backgrounds, hero sections, and fun UI effects!
 
-🔗 Live Preview:
+---
+
+**🔗 Live Preview:**
 ➡️ https://kritishmapradhan.github.io/floating-water-bubble-animation/
 
-✨ Features
+---
 
-Floating bubble effect with smooth animation
+**✨ Features**
 
-Pure HTML + CSS + JavaScript
+-Floating bubble effect with smooth animation
 
-Lightweight and easy to use
+-Pure HTML + CSS + JavaScript
 
-Randomized bubble movement
+-Lightweight and easy to use
 
-Fully responsive
+-Randomized bubble movement
+
+**Fully responsive**
 
 🛠️ Tech Stack
 
-HTML5
+-HTML5
 
-CSS3 Animations
+-CSS3 Animations
 
-Vanilla JavaScript
+-Vanilla JavaScript
